@@ -1,5 +1,7 @@
 # SSH Desktop
 
+[![ci](https://github.com/akirousnow/ssh-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/akirousnow/ssh-desktop/actions/workflows/ci.yml)
+
 A small, quiet SSH client for the desktop, built with
 [MyGo](https://github.com/egoist/mygo)'s native UI and Ghostty's terminal
 emulator.
@@ -79,3 +81,7 @@ go tool mygo vet .
 
 Views run without a window in tests: `ui.NewTester` clicks and types as a user
 would.
+
+## License
+
+MIT
