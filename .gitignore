@@ -1,0 +1,5 @@
+/build/
+/.mygo/
+/ssh-desktop
+/ssh-desktop.exe
+mygo_windows_*.syso
